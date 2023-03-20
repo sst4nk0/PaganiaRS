@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"bg": "pagania/items/controls/button_2x3",
+		"ficon": "Libraries/Pictures/Stock/Minecraft/gui/button_icon",
+		"particle": "pagania/items/controls/button_2x3"
+	},
+	"elements": [
+		{
+			"name": "background",
+			"from": [-13, -1, 0],
+			"to": [29, 32, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#bg"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#bg"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#bg"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#bg"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#bg"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#bg"}
+			}
+		},
+		{
+			"name": "icon",
+			"from": [0, 8, 1],
+			"to": [16, 24, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#ficon"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#ficon"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#ficon"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#ficon"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#ficon"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#ficon"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [18, -16, 0]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "pagania/block/log_goldoak_top",
+    "side": "pagania/block/log_goldoak"
+  }
+}

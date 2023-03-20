@@ -1,0 +1,6 @@
+{
+    "parent": "pagania/avatars/avatar-parent",
+    "textures": {
+        "0": "pagania/items/avatars/mineshafter"
+    }
+}

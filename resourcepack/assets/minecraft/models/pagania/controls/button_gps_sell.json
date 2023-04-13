@@ -2,6 +2,6 @@
   "parent": "pagania/controls/button_2x3_parent",
   "textures": {
     "bg": "pagania/items/controls/button_2x3",
-    "ficon": "minecraft:optifine/cit/items/coins/coin_srebryannik_64"
+    "ficon": "pagania/items/coins/coin_srebryannik_64"
   }
 }

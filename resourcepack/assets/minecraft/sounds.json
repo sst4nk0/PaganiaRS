@@ -1,5 +1,6 @@
 {
 "custom.pagania.pickaxe-dig1":{"sounds":[{"name":"pagania/pickaxe-dig1"}]},
 "custom.pagania.pickaxe-dig2":{"sounds":[{"name":"pagania/pickaxe-dig2"}]},
-"custom.pagania.pickaxe-dig3":{"sounds":[{"name":"pagania/pickaxe-dig3"}]}
+"custom.pagania.pickaxe-dig3":{"sounds":[{"name":"pagania/pickaxe-dig3"}]},
+"custom.pagania.warning-1":{"sounds":[{"name":"pagania/warning-1"}]}
 }

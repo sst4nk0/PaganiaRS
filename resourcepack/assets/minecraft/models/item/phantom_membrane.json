@@ -47,6 +47,7 @@
 		{"predicate": {"custom_model_data":40}, "model": "pagania/crates/crate_oceanic"},		
 		{"predicate": {"custom_model_data":41}, "model": "pagania/crates/crate_mossy"},
 		{"predicate": {"custom_model_data":42}, "model": "pagania/crates/keys/crate_key_common"},
+		{"predicate": {"custom_model_data":43}, "model": "pagania/coins/coin_srebryannik_64"},
 		{"predicate": {"custom_model_data":100}, "model": "pagania/controls/transparent"}
 	]
 }

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"bg": "pagania/items/controls/button_2x3",
-		"ficon": "Libraries/Pictures/Stock/Minecraft/gui/button_icon",
+		"ficon": "pagania/items/16x_placeholder.png",
 		"particle": "pagania/items/controls/button_2x3"
 	},
 	"elements": [
